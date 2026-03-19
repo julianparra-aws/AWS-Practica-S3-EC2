@@ -32,9 +32,10 @@ Se implementaron buenas prácticas de seguridad como:
 ## 📸 Evidence
 
 ### EC2 Instance Running
-<img width="1366" height="768" alt="Captura de pantalla (59)" src="https://github.com/user-attachments/assets/afabfef1-8235-4e22-ac27-a686692784e5" />
+
 ### MYSQL CREATE
-<img width="1366" height="768" alt="Captura de pantalla (99)" src="https://github.com/user-attachments/assets/05ac72f2-2574-4de3-bcb2-6ec771218cbd" />
+
+
 
 ## 📚 What I Learned
 - Despliegue de infraestructura en la nube con AWS
