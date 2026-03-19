@@ -32,8 +32,10 @@ Se implementaron buenas prácticas de seguridad como:
 ## 📸 Evidence
 
 ### EC2 Instance Running
+<img width="1366" height="768" alt="Captura de pantalla (59)" src="https://github.com/user-attachments/assets/d89cedcc-5ce9-4b56-8fda-d1ee7ad8f941" />
 
 ### MYSQL CREATE
+<img width="1366" height="768" alt="Captura de pantalla (99)" src="https://github.com/user-attachments/assets/08fd9d51-4658-4437-a8d0-a0141d835338" />
 
 
 
